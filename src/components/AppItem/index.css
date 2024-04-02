@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.app-img {
+  height: 100px;
+  width: 100px;
+}
+
+.list-item {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.app-name{
+  text-align: center;
+}

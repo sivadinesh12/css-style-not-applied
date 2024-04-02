@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.btn {
+  color: #dfe2e5;
+  font-family: Roboto;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px #dfe2e5 solid;
+  background-color: transparent;
+  width: 80px;
+}
+
+.active-btn {
+  color: #2563eb;
+  border-bottom: 2px #2563eb solid;
+}
